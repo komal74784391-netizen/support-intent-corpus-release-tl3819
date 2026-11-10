@@ -1,8 +1,8 @@
 {
-  "upstream_dataset": "",
-  "upstream_license": "",
-  "license_review_required": null,
-  "selected_tier": "",
-  "selected_region": "",
-  "annual_usd": null
+  "upstream_dataset": "TUaxhuiax/linguaforge-agent-intent-v7-raw-tl3819",
+  "upstream_license": "apache-2.0",
+  "license_review_required": false,
+  "selected_tier": "standard",
+  "selected_region": "apac-sg",
+  "annual_usd": 1221.8
 }
